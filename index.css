@@ -1,0 +1,63 @@
+.background{
+    background-color:rgb(17, 9, 9)
+}
+
+.heading{
+    color:white;
+}
+
+.head{
+    background-color: rgb(233, 131, 91);
+    width: 1000px;
+    height: 80px;
+    color: white;
+    padding-top: 5px;
+    border-radius: 15px 15px;
+    margin-left: 0px;
+    font-size: 35px;
+    text-align: center;
+}
+
+.input-style{
+    background-color:rgb(5, 5, 12);
+    border-color:orange;
+    width: 600px;
+    height: 60px;
+    color: white;
+}
+
+.drop-down-style{
+    background-color:rgb(6, 6, 10);
+    border-color:orange;
+    width: 600px;
+    height: 60px;
+    color: white;
+}
+
+.description-style{
+    background-color:rgb(10, 10, 15);
+    border-color:orange;
+    width: 600px;
+    height: 100px;
+    color: white;
+}
+
+.description{
+    color: white;
+    margin-left: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.submit-button{
+    margin-top: 30px;
+    font-size: 15px;
+    background-color: rgb(192, 48, 23);
+    color: white;
+    width: 150px;
+    height: 60px;
+    text-align: center;
+    border-style: circle;
+    margin-left:90px ;
+    border-radius: 15px 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
